@@ -5,7 +5,7 @@ Light and intuitive task manager, that is simple to use. Created using Flask, SQ
 ```
 mkdir task-tracker-flask
 cd task-tracker-flask
-git clone
+git clone https://github.com/malcolmrichardson/task-tracker-flask.git
 source venv/bin/activate
 pip install -r requirements.txt
 python app.py
