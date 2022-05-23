@@ -5,9 +5,8 @@ Light and intuitive task manager.<br>Created using Flask, SQLAlchemy/SQLite, and
 Run the below:
 
 ```
-mkdir task-tracker-flask
-cd task-tracker-flask
 git clone https://github.com/malcolmrichardson/task-tracker-flask.git
+cd task-tracker-flask
 source venv/bin/activate
 pip install -r requirements.txt
 python app.py
