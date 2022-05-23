@@ -1,5 +1,6 @@
 # task-tracker-flask
-Light and intuitive task manager, that is simple to use. Created using Flask, SQLAlchemy/SQLite, and the Semantic UI library.
+Light and intuitive task manager.
+Created using Flask, SQLAlchemy/SQLite, and the Semantic UI library.
 ## Installation/Setup
 
 Run the below:
